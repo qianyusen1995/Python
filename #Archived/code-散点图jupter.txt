@@ -1,0 +1,26 @@
+""" proejct """
+
+import numpy as np
+import matplotlib.pyplot as plt
+np.random.seed(1)
+x= np.random.rand(10)
+y= np.random.rand(10)
+colors = np.random.rand(10)
+area = (40 * np.random.rand(20))**2
+%matplotlib inline
+plt.scatter(x,y,s = area, c = colors, alpha = 0.4)
+plt.show()
+
+""" proejct """
+print (hello)
+numbers = [34, 78, 13, 65, 10, -8]
+even = []
+odd = []
+while len(numbers) > 0
+    num = numbers.pop()
+    if (num % == 0):
+        even.apend(num)
+    else:
+        odd.append(num)
+print ("Even:", even)
+print ("odd:", odd)

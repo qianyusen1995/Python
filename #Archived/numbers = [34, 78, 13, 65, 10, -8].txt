@@ -1,0 +1,12 @@
+print (hello)
+numbers = [34, 78, 13, 65, 10, -8]
+even = []
+odd = []
+while len(numbers) > 0
+    num = numbers.pop()
+    if (num % == 0):
+        even.apend(num)
+    else:
+        odd.append(num)
+print ("Even:", even)
+print ("odd:", odd)
