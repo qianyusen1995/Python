@@ -1,0 +1,1 @@
+pip install Django==版本号  

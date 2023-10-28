@@ -1,0 +1,1 @@
+>>> file = open(r"c:\Users\NAKAS\Desktop\a.txt","w")

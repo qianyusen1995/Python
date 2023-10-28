@@ -1,0 +1,1 @@
+print("俄罗斯的首都是：",dictionary.get('俄罗斯'))
